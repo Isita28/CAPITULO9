@@ -1,0 +1,7 @@
+CAPÍTULO 9 — JAVASCRIPT: FUNCIONES
+
+Estructura: Menu Principal.html, Ejemplos/, Ejercicios/ e Imagenes/.
+
+Uso: extrae todo el ZIP y abre Menu Principal.html en tu navegador.
+
+Nota: las páginas son soluciones didácticas funcionales basadas en los temas del capítulo; no reproducen literalmente todo el libro.
